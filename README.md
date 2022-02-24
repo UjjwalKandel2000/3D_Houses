@@ -52,7 +52,7 @@ This includes the actual heights of trees, builds and any other objects on the e
 # Installation
 - Clone this repository into your local environment with below command-
 
-  `git clone https://github.com/ujjwalk00/challenge-card-game-Ujjwal-Kandel.git`
+  `git clone https://github.com/ujjwalk00/3D_Houses.git`
 
 - Create python virtual environment
 
